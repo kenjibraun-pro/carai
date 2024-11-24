@@ -206,4 +206,10 @@ const features: Feature[] = [
     title: "Key Bindings",
     description: "The editor supports Visual Studio Code key bindings.",
   },
+  {
+    icon: IoIosGlobe,
+    title: "Open Source",
+    description:
+      "If your favorite language or library is missing you can open an issue or pull request on GitHub to get it added.",
+  },
 ] as const;
